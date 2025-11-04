@@ -1,7 +1,5 @@
 [build]
   publish = "/"
-  command = ""
-
 [[redirects]]
   from = "/success"
   to = "/thanks.html"
